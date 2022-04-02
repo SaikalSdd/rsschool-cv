@@ -37,3 +37,21 @@ a great experience! Now I work on commercial projects - products in different do
   - [React Native - Udemy](https://www.udemy.com/course/react-native-the-practical-guide/)
 
     ![Cources screenshot](./cources_screenshot.png)
+
+## Key Skills
+
+---
+
+| Technology Stack | Proficiency Level |
+| ---------------- | ----------------- |
+| JavaScript       | ⭐⭐⭐            |
+| React.js         | ⭐⭐⭐            |
+| Redux            | ⭐⭐⭐            |
+| SQLite           | ⭐⭐⭐            |
+| React Native     | ⭐⭐              |
+| GIT              | ⭐⭐              |
+| Storyblok        | ⭐⭐              |
+| SCSS             | ⭐⭐              |
+| Tailwind         | ⭐⭐              |
+| Typescript       | ⭐                |
+| Next.js          | ⭐                |
