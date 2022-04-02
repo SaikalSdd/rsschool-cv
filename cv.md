@@ -103,3 +103,22 @@ Frontend Developer • Intern • Neobis
 | English  |        B2         |
 
 > Starting from 7th grade I studied in school where education was in English, and at the university also education was in English. In 10th grade I participated with my team of 3 people in World Scholars' Cup - debates in english and our team took 3rd place among 13 schools. Also, in 10th-11th grades I prepared for SAT and passed with 1116/1600 score. In other words, English plays big role in my life
+
+## Code Example
+
+Task:
+
+Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.
+
+const countSheep = (num) => {
+//your code here
+let countStr = ""
+let count = 1
+
+while(num > 0){
+countStr = countStr.concat(`${count} sheep...`)
+count ++
+num --
+}
+return countStr
+}
