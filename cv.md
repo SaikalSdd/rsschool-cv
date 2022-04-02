@@ -55,3 +55,41 @@ a great experience! Now I work on commercial projects - products in different do
 | Tailwind         | ⭐⭐              |
 | Typescript       | ⭐                |
 | Next.js          | ⭐                |
+
+## Experience
+
+---
+
+_11/2021 - current_  
+Software Engineer • Frontend Developer • DevelopsToday LTD
+
+_11/2020 - 09/2021_  
+Software Engineer • Digital Notebook Mobile Application "CELL"
+
+_01/2019 – 01/2020_  
+Frontend Developer • Intern • Neobis
+
+## Projects
+
+---
+
+- Mobile application for iOS/Android using React Native, Redux, SQLite. The app is already in Google Play.
+
+  - [Google Play](https://play.google.com/store/apps/details?id=com.bakirovasdd.digital_notebook_cell)
+  - [Code Source](https://github.com/SaikalSdd/cell-app)
+  - [App Demo](https://www.youtube.com/watch?v=SZVCg4qr_ms)
+
+  - Used Technologies:
+    - Figma
+    - React Native
+    - Redux
+    - Expo
+    - SQLite
+
+- Owkin Web Platform
+  - [owkin.com](https://owkin.com/)
+  - Used technologies:
+    - Next.js
+    - Typescript
+    - Storybook
+    - Styled components (SCSS)
