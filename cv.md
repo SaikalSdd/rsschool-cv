@@ -93,3 +93,13 @@ Frontend Developer • Intern • Neobis
     - Typescript
     - Storybook
     - Styled components (SCSS)
+
+## Languages
+
+---
+
+| Language | Proficiency Level |
+| -------- | :---------------: |
+| English  |        B2         |
+
+> Starting from 7th grade I studied in school where education was in English, and at the university also education was in English. In 10th grade I participated with my team of 3 people in World Scholars' Cup - debates in english and our team took 3rd place among 13 schools. Also, in 10th-11th grades I prepared for SAT and passed with 1116/1600 score. In other words, English plays big role in my life
